@@ -24,7 +24,7 @@ Tecnologías utilizadas
 |                               | Flask-Migrate                           | Migraciones de base de datos                                |
 |                               | psycopg2                                 | Conexión con PostgreSQL                                       |
 | **Base de datos**  | PostgreSQL                              | Almacenamiento de usuarios, IMC y asignaciones |
-| **Frontend**          | HTML + Bootstrap (opcional)  | Interfaces básicas para formularios                        |
+| **Frontend**          | HTML + Bootstrap  | Interfaces básicas para formularios                        |
 | **Contenedores**  | Docker + Docker Compose     | Empaquetar y levantar los servicios                        |
 | **Gestión**            | GitHub + GitHub Projects        | Control de versiones y tablero KANBAN                |
 | **IDE**                   | Visual Studio Code                   | Edición de código                                                   |
